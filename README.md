@@ -6,11 +6,11 @@ The purpose of this exercise was to gather information about temperature trends 
 ## Results
 June Statistics:
 
-/Users/hollyesmith/Documents/Holly/Data_Analytics/Module_9/surfs_up/June_stats.png
+<img width="158" alt="image" src="https://user-images.githubusercontent.com/97558998/164518946-7f49f586-13d0-4b77-a787-7541df4cf68d.png">
 
 December Statistics:
 
-/Users/hollyesmith/Documents/Holly/Data_Analytics/Module_9/surfs_up/Dec_stats.png
+<img width="147" alt="image" src="https://user-images.githubusercontent.com/97558998/164519034-2ba687fd-f436-4d6d-81f4-75fb769a0c89.png">
 
 Three key differences in weather between June and December:
 
